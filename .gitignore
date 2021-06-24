@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+.*.swp
+.DS_Store
+._*
+npm-debug.log
+.npmrc
