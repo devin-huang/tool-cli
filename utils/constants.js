@@ -9,7 +9,7 @@ const PROJECT = {
 }
 
 const LIBRARY = {
-	[PROJECT.vue2]: 'vue-base',
+	[PROJECT.vue2]: 'vue2-base',
 	[PROJECT.vue3]: 'vue-next-template',
 	[PROJECT.react]: 'react',
 }
